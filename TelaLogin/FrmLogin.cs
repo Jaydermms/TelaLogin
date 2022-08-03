@@ -1,4 +1,5 @@
 ﻿using System;
+using TelaLogin.Entities;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,6 +17,5 @@ namespace TelaLogin
         {
             InitializeComponent();
         }
-
     }
 }

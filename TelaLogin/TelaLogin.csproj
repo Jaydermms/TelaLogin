@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Usuario.cs" />
+    <Compile Include="Entities\ValidacaoLogin.cs" />
     <Compile Include="FrmHome.cs">
       <SubType>Form</SubType>
     </Compile>
