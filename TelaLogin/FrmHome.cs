@@ -1,4 +1,5 @@
 ﻿using System;
+using TelaLogin.Entities;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,7 +21,18 @@ namespace TelaLogin
         private void FrmHome_Load(object sender, EventArgs e)
         {
             FrmLogin frmLogin = new FrmLogin();
-            frmLogin.ShowDialog();
+
+            while(ValidacaoLogin.UserLogado == null)
+            {
+                Visible = false;
+                frmLogin.ShowDialog();
+                if (FrmLogin.Cancelar)
+                {
+                    Application.Exit();
+                    return;
+                }
+            }
+            Visible = true;
         }
     }
 }
