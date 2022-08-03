@@ -1,0 +1,12 @@
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.SuggestedBindingRedirects.cache
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.FrmHome.resources
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+D:\Usuários\jayder\Documentos\Curso C#\windowsForm\TelaLogin\TelaLogin\obj\Debug\TelaLogin.FrmLogin.resources
